@@ -39,3 +39,17 @@ Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 Power BI / Tableau for interactive dashboards
 
 Google colob Notebook / VS Code for analysis and modeling
+
+# Questions
+
+1.What are the airlines in dataset?
+
+2.what are the frequency of airlines?
+
+3. Graph of departure_time and arival_time by frequency?
+
+4.Show bar grapy of source city and destination city by frequency?
+
+5.Does price varies with airlines?
+
+6.Does price changes by source city and destination city?
