@@ -31,3 +31,11 @@ Total Stops – Number of stops in the journey
 Additional Info – Extra details about the flight
 
 Price – Ticket price (used as target variable)
+
+# Tools & Technologies
+
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+
+Power BI / Tableau for interactive dashboards
+
+Google colob Notebook / VS Code for analysis and modeling
